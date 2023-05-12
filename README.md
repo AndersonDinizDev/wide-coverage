@@ -1,5 +1,5 @@
 # Wide Coverage Location
-Página responsiva feita durante o segundo módulo de CSS, do curso <a href="https://rodolfomori.com.br/devclub/">Dev Club</a>.
+Landing-Page made to train item positioning with FlexBox.
 
 <h2>Tecnologias Utilizadas:</h2>
 <ul>
